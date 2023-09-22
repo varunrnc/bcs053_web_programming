@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<students>
-    <rollno>1</rollno>
-    <name>Varun</name>
-    <class>BCA</class>
-</students>
+<test>
+    <test1>My First XML</test1>
+    <test2>Let's have coffee after dinner!</test2>
+    <test>After that, Let's go for a long drive.</test>
+</test>
